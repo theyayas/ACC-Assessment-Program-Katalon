@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_muhammadyasinoti.com</name>
+   <tag></tag>
+   <elementGuidId>4da3beff-ff68-4017-9223-41016e65655b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='corry luqma'])[1]/following::td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>079a1a61-a19e-4173-9cff-bd418696f6d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>muhammadyasin@oti.com</value>
+      <webElementGuid>d0590ced-b13f-4732-a904-64afbafc9337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body table-responsive no-padding&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[3]/td[1]</value>
+      <webElementGuid>36332455-3e51-42cc-940e-909af0d7a94b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='corry luqma'])[1]/following::td[6]</value>
+      <webElementGuid>02fe21a8-afdc-4419-8bd3-ceae0b57204c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='corryluqma@oti.com'])[1]/following::td[7]</value>
+      <webElementGuid>53fc1a98-2b5b-4755-b0da-21ef05bb7fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Yasin'])[1]/preceding::td[1]</value>
+      <webElementGuid>c55929c8-a211-49df-98ed-a1e97654b124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::td[7]</value>
+      <webElementGuid>8d0c851e-62c6-4cf6-882a-33abec3a8b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='muhammadyasin@oti.com']/parent::*</value>
+      <webElementGuid>d6426370-f529-4033-ac98-c77ac98a8413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td</value>
+      <webElementGuid>697f1690-4397-4f0f-8117-a728d45c5de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'muhammadyasin@oti.com' or . = 'muhammadyasin@oti.com')]</value>
+      <webElementGuid>c8cb59d8-44d2-4d6f-bf2d-648500520733</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Responsive Hover Table_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>75770ec4-e273-449d-ae1d-b9e3b734a659</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a044fc92-64ed-4d46-91cc-8f689d920679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>39cdcd82-4a4b-4428-9ee0-8b1b0d6c4df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-header&quot;]/div[@class=&quot;box-tools&quot;]/div[@class=&quot;input-group input-group-sm&quot;]/div[@class=&quot;input-group-btn&quot;]/a[@class=&quot;btn btn-default&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>17f2df5f-1c07-40db-8a1f-a06a136f1389</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a/i</value>
+      <webElementGuid>ecd0a5d5-415d-4b37-820b-9ac10bc23ef5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
